@@ -1,0 +1,6 @@
+[submodule "troca-facil-backend"]
+	path = troca-facil-backend
+	url = https://github.com/ProjetoIntegrador-SENAC/troca-facil-backend
+[submodule "TrocaFacil"]
+	path = TrocaFacil
+	url = https://github.com/ProjetoIntegrador-SENAC/TrocaFacil

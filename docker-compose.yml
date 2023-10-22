@@ -1,0 +1,7 @@
+version: '3'
+services:
+  backend:
+    image: openjdk:17-alpine
+  
+  fronend:
+    image: node:latest
